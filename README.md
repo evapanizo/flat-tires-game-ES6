@@ -37,12 +37,14 @@ There is an easter egg that helps you remove crabs from the road.
 ## Data structure
 ### Game.js
 #### Properties
-    score
-    lives
-    time
-    player
-    enemies
-    onGameOverCallback
+    HTML Elements
+    End Game Callback Function
+    Canvas Properties
+    Game Characters
+    Time references
+    Game statistics & variables
+    Flags
+    Audio files
 #### Methods
     start                       // Initializes the game layout
     startLoop                   // Initializes the game animations
@@ -197,7 +199,7 @@ Background.js
 
 ### Git
 - [Game repository](https://github.com/evapanizo/flat-tires-game)
-- [Deployed game](https://evapanizo.github.io/flat-tires-game/)
+- [Deployed game](https://evapanizo.github.io/flat-tires-game-ES6/)
 
 
 ### Slides
